@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FlowerShop</string>
+    <string name="name">Name</string>
+    <string name="_0">0 $</string>
+    <string name="add_to_card">Add to CARD</string>
+    <string name="hint">Your name</string>
+    <string name="Sale">Sale -30%</string>
+    <string name="Select">Select Item</string>
+    <string name="Order">Order Price</string>
+    <string name="nol">0</string>
+    <string name="Dollar">$</string>
+    <string name="Quantity">Quantity</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="Add">Add to Cart</string>
+
+</resources>
